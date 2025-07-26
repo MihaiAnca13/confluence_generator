@@ -22,7 +22,10 @@ main :: proc() {
         }
     }
 
-
+    point, ok := sample_in_gamut()
+    if ok {
+        fmt.printf("Found in-gamut color: %v\n", srgb_to_255(point.rgb))
+    }
 }
 
 
