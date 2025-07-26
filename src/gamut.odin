@@ -79,7 +79,7 @@ sample_in_gamut :: proc () -> (GamutPoint, bool) {
     attempts := 0
 
     for attempts < 10 {
-    // pick random point in CIELAB space
+        // pick random point in CIELAB space
         lab : LAB
         lab.L = rand.float32_range(0, 100)
         lab.a = rand.float32_range(-128, 127)
@@ -90,10 +90,10 @@ sample_in_gamut :: proc () -> (GamutPoint, bool) {
         linear_color := xyz_to_linear_rgb(xyz_color)
 
         if is_in_gamut(linear_color) {
-            srgb := sRGB{ to_sRGB(linear_color.r), to_sRGB(linear_color.g), to_sRGB(linear_color.b) }
-            return GamutPoint{ rgb=srgb, lab=lab }, true
+            srgb := sRGB{to_sRGB(linear_color.r), to_sRGB(linear_color.g), to_sRGB(linear_color.b)}
+            return GamutPoint{rgb=srgb, lab=lab}, true
         }
     }
     fmt.printf("Failed to find in-gamut color after %d attempts\n", attempts)
-    return GamutPoint{ }, false
+    return GamutPoint{}, false
 }
