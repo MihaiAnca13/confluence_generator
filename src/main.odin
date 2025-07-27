@@ -22,10 +22,9 @@ main :: proc() {
         }
     }
 
-    point, ok := sample_in_gamut()
-    if ok {
-        fmt.printf("Found in-gamut color: %v\n", srgb_to_255(point.rgb))
-    }
+    points := poisson_disc_sampling_3d(16.8, 100, is_lab_in_gamut)
+    fmt.printf("Found %v points\n", len(points))
+
 }
 
 
