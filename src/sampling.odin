@@ -137,7 +137,6 @@ Args:
             append(&active_list, candidate_point)
             append(&samples, candidate_point)
             grid[grid_x][grid_y][grid_z] = candidate_point
-            fmt.printf("Found point %v. Total: %v\n", candidate_point, len(samples))
         }
 
         if !candidate_found {
