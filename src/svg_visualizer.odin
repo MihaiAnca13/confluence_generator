@@ -5,9 +5,8 @@ import "core:math"
 import "core:os"
 import "core:strings"
 
-
-BAND_WIDTH   :: 50
-IMAGE_WIDTH  :: 500
+BAND_WIDTH :: 50
+IMAGE_WIDTH :: 500
 
 create_svg :: proc (boxes: [dynamic]LAB) {
     nr_boxes := len(boxes)

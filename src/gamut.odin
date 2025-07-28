@@ -101,5 +101,5 @@ lab_to_srgb :: proc (lab: LAB) -> (sRGB, bool) {
     if is_in_gamut(linear) {
         return sRGB{ to_sRGB(linear.r), to_sRGB(linear.g), to_sRGB(linear.b) }, true
     }
-    return sRGB{0, 0, 0}, false
+    return sRGB{ 0, 0, 0 }, false
 }

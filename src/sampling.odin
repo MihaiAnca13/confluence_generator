@@ -34,8 +34,8 @@ make_3d_array :: proc(dim1, dim2, dim3: int, $T: typeid) -> [dynamic][dynamic][d
 
 lab_squared_distance :: proc (a, b: LAB) -> f64 {
     return math.pow(a.L - b.L, 2) +
-        math.pow(a.a - b.a, 2) +
-        math.pow(a.b - b.b, 2)
+    math.pow(a.a - b.a, 2) +
+    math.pow(a.b - b.b, 2)
 }
 
 poisson_disc_sampling_3d :: proc (r: f64, k: int, is_valid: proc (LAB) -> bool) -> [dynamic]LAB {
@@ -140,7 +140,7 @@ Args:
         }
 
         if !candidate_found {
-            // remove current point from the active list
+        // remove current point from the active list
             unordered_remove(&active_list, index)
         }
     }

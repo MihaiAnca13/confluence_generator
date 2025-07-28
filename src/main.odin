@@ -5,7 +5,6 @@ import "core:fmt"
 import "core:mem"
 import "core:slice"
 
-
 main :: proc() {
     when ODIN_DEBUG {
         track: mem.Tracking_Allocator
