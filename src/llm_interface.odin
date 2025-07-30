@@ -11,7 +11,7 @@ import curl "../libs/odin-curl"
 BASE_URL :: "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent"
 
 Part :: struct {
-    text: string,
+    text: string `json:"text"`
 }
 
 Content :: struct {
@@ -166,16 +166,10 @@ call_llm :: proc (prompt : string, api_key : string) -> string {
         first_candidate := llm_response.candidates[0]
         if len(first_candidate.content.parts) > 0 {
             first_part := first_candidate.content.parts[0]
+
             return first_part.text
         }
     }
 
     return ""
-}
-
-
-main :: proc () {
-    env_vars := read_env()
-    response := call_llm("Please solve these problems: 1) 12+1512/12 2) 2 + 2 * x = 1 3) x^2 + 2x + 1 = 0", env_vars["GEMINI_API"])
-    fmt.printf("Response: %s\n", response)
 }

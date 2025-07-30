@@ -1,0 +1,160 @@
+Adept, Ape and Armour: Master
+Adept, Ape and Axe: Master
+Adept, Ape and Balance: Master
+Adept, Ape and Bat: Master
+Adept, Ape and Bear: Master
+Adept, Ape and Bee: Master
+Adept, Ape and Bird: Master
+Adept, Ape and Blight: Master
+Adept, Ape and Blood: Master
+Adept, Ape and Bone: Master
+Adept, Ape and Bow: Master
+Adept, Ape and Cage: Prison
+Adept, Ape and Cat: Chimera
+Adept, Ape and Cattle: Minotaur
+Adept, Ape and Chain: Prison
+Adept, Ape and Claw: Chimera
+Adept, Ape and Cloth: Master
+Adept, Ape and Cloud: Ziz
+Adept, Ape and Cold: Desolate
+Adept, Ape and Coral: Vessel
+Adept, Ape and Corrupt: Charlatan
+Adept, Ape and Crocodile: Adept
+Adept, Ape and Crystal: Adept
+Adept, Ape and Dance: Animate
+Adept, Ape and Dark: Dark
+Adept, Ape and Death: Death
+Adept, Ape and Deep: Deep
+Adept, Ape and Deer: Adept
+Adept, Ape and Dimension: Dimension
+Adept, Ape and Discord: Discord
+Adept, Ape and Dog: Master
+Adept, Ape and Duck: Master
+Adept, Ape and Dust: Master
+Adept, Ape and Earth: Master
+Adept, Ape and Echo: Animate
+Adept, Ape and Elemental: Master
+Adept, Ape and Eye: Master
+Adept, Ape and Feast: Master
+Adept, Ape and Feeble: Master
+Adept, Ape and Fire: Master
+Adept, Ape and Fish: Adept, Ape and Fish
+Adept, Ape and Flea: Adept, Ape and Flea
+Adept, Ape and Flesh: Adept, Ape and Flesh
+Adept, Ape and Foot: Adept, Ape and Foot
+Adept, Ape and Fork: Adept, Ape and Fork
+Adept, Ape and Fox: Adept, Ape and Fox
+Adept, Ape and Frog: Adept, Ape and Frog
+Adept, Ape and Fungus: Adept, Ape and Fungus
+Adept, Ape and Gathering: Adept, Ape and Gathering
+Adept, Ape and Glass: Adept, Ape and Glass
+Adept, Ape and Goat: Adept
+Adept, Ape and Grazen: Adept
+Adept, Ape and Growth: Adept
+Adept, Ape and Gun: Adept
+Adept, Ape and Hair: Adept
+Adept, Ape and Hammer: Adept
+Adept, Ape and Hand: Adept
+Adept, Ape and Harmonic: Adept
+Adept, Ape and Heidel: Adept
+Adept, Ape and Hook: Adept
+Adept, Ape and Horse: Master
+Adept, Ape and Hunger: Wendigo
+Adept, Ape and Hunt: Hunt
+Adept, Ape and Ice: Cold
+Adept, Ape and Iron: Iron
+Adept, Ape and Knife: Blade
+Adept, Ape and Knowledge: Master
+Adept, Ape and Life: Life
+Adept, Ape and Light: Light
+Adept, Ape and Lightning: Lightning
+Adept, Ape and Lizard: Adept, Ape and Lizard
+Adept, Ape and Locust: Adept, Ape and Locust
+Adept, Ape and Lurker: Adept, Ape and Lurker
+Adept, Ape and Magic: Adept, Ape and Magic
+Adept, Ape and Malign: Adept, Ape and Malign
+Adept, Ape and Manatee: Adept, Ape and Manatee
+Adept, Ape and Might: Adept, Ape and Might
+Adept, Ape and Mirror: Adept, Ape and Mirror
+Adept, Ape and Monkey: Adept, Ape and Monkey
+Adept, Ape and Moon: Adept, Ape and Moon
+Adept, Ape and Mouse: Adept
+Adept, Ape and Myriad: Adept
+Adept, Ape and Needle: Adept
+Adept, Ape and Net: Adept
+Adept, Ape and Octopus: Adept
+Adept, Ape and Omen: Adept
+Adept, Ape and Pangolin: Adept
+Adept, Ape and Paper: Adept
+Adept, Ape and Plant: Adept
+Adept, Ape and Potent: Adept
+Adept, Ape and Pure: Master
+Adept, Ape and Rabbit: Master
+Adept, Ape and Rake: Master
+Adept, Ape and Rat: Master
+Adept, Ape and Renewal: Renewal
+Adept, Ape and Resolute: Master
+Adept, Ape and Rune: Master
+Adept, Ape and Sand: Master
+Adept, Ape and Sceptre: Master
+Adept, Ape and Serene: Master
+Adept, Ape and Shark: Master
+Adept, Ape and Shield: Master
+Adept, Ape and Shimmer: Master
+Adept, Ape and Ship: Master
+Adept, Ape and Shovel: Master
+Adept, Ape and Sickle: Master
+Adept, Ape and Sin: Master
+Adept, Ape and Skunk: Master
+Adept, Ape and Sloth: Master
+Adept, Ape and Smoke: Master
+Adept, Ape and Snake: Adept, Ape and Snake = Transfiguration
+Adept, Ape and Song: Adept, Ape and Song = Master
+Adept, Ape and Spear: Adept, Ape and Spear = Master
+Adept, Ape and Spider: Adept, Ape and Spider = Master
+Adept, Ape and Spike: Adept, Ape and Spike = Master
+Adept, Ape and Staff: Adept, Ape and Staff = Master
+Adept, Ape and Star: Adept, Ape and Star = Master
+Adept, Ape and Sun: Adept, Ape and Sun = Master
+Adept, Ape and Swift: Adept, Ape and Swift = Master
+Adept, Ape and Sword: Adept, Ape and Sword = Master
+Adept, Ape and Technology: Master
+Adept, Ape and Tentacle: Chimera
+Adept, Ape and Thread: Master
+Adept, Ape and Trap: Ambush
+Adept, Ape and Tree: Avatar
+Adept, Ape and Trowel: Master
+Adept, Ape and Turtle: Chimera
+Adept, Ape and Vast: Vast
+Adept, Ape and Vehicle: Vehicle
+Adept, Ape and Venom: Chimera
+Adept, Ape and Visage: Adept
+Adept, Ape and Void: Adept
+Adept, Ape and Wall: Adept
+Adept, Ape and Wasp: Adept
+Adept, Ape and Water: Adept
+Adept, Ape and Whale: Adept
+Adept, Ape and Wheel: Adept
+Adept, Ape and Whip: Adept
+Adept, Ape and Wind: Adept
+Adept, Ape and Wing: Adept
+Adept, Ape and Wolf: Master
+Adept, Ape and Wood: Master
+Adept, Ape and Zeal: Master
+Adept, Armour and Axe: Master
+Adept, Armour and Balance: Master
+Adept, Armour and Bat: Master
+Adept, Armour and Bear: Master
+Adept, Armour and Bee: Master
+Adept, Armour and Bird: Master
+Adept, Armour and Blight: Master
+Adept, Armour and Blood: Adept, Armour and Blood
+Adept, Armour and Bone: Blood
+Adept, Armour and Bow: Adept, Armour and Bone
+Adept, Armour and Cage: Bone
+Adept, Armour and Cat: Adept, Armour and Bow
+Adept, Armour and Cattle: Bow
+Adept, Armour and Chain: Adept, Armour and Cage
+Adept, Armour and Claw: Cage
+Adept, Armour and Cloth: Adept, Armour and Cat
+Adept, Armour and Cloud: Cat
